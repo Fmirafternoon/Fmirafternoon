@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fmirafternoon
 - 🌱 I have a great development projet in mind
 - 👀 I’m currently looking for a CTO for this amazing project 
-- 💞️ I’m looking also technical partnerships
+- ⚡️ I’m looking also technical partnerships
 - 📫 francois@afternoon.software
 
 <!---
